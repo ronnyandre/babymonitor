@@ -6,7 +6,7 @@ This year I got my first child. He is now seven months, and is currently sleepin
 
 However, I want to know my baby's activity during the night. Is he moving much? What times is he awake without making a sound? How is the humidity in the room? I also want to connect a light and heat source to the monitor as well. If temperature too high, turn down heat. If baby is asleep, turn off light.
 
-In a months time I will be in my paternity leave for a few months, which could be a good time to start this project.
+In January 2019 I will start my paternity leave which could be a good time to start this project.
 
 ## Features
 - Detect audio
