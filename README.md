@@ -10,16 +10,17 @@ In a months time I will be in my paternity leave for a few months, which could b
 
 ## Features
 - Audio detection
-- Motion detection
+- Vibration detection
 - Temperature
 - Humidity
 - Event-driven (MQTT)
 - Light control (optional)
 - Temperature control (optional)
+- Motion sensing (dim light on when parents entering room)
 
 ## Hardware
-- Controller: TBD
-- Audio detection: TBD
-- Motion detection: TBD
-- Temperature reading: TBD
-- Humidity reading detection: TBD
+- Controller: Wemos D1 Mini
+- Audio detection: GY-MAX4466
+- Vibration detection: SW-420
+- Temperature and humidity reading: DHT22
+- Motion sensor: HC-SR501
