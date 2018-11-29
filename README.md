@@ -9,13 +9,12 @@ However, I want to know my baby's activity during the night. Is he moving much? 
 In a months time I will be in my paternity leave for a few months, which could be a good time to start this project.
 
 ## Features
-- Audio detection
-- Vibration detection
-- Temperature
-- Humidity
-- Event-driven (MQTT)
-- Light control (optional)
-- Temperature control (optional)
+- Detect audio
+- Detect movement by vibrations of bed
+- Temperature and humidity readings
+- Push events when values change using MQTT
+- Add LED strip and control lights based on time or events
+- Turn on/off external heat source with Wi-Fi based power plug, like Sonoff
 - Motion sensing (dim light on when parents entering room)
 
 ## Hardware
