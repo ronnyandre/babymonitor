@@ -12,9 +12,9 @@ In January 2019 I will start my paternity leave which could be a good time to st
 - Detect audio
 - Detect movement by vibrations of bed
 - Temperature and humidity readings
-- Push events when values change using MQTT
 - Add LED strip and control lights based on time or events
 - Turn on/off external heat source with Wi-Fi based power plug, like Sonoff
+- Push events using MQTT for integration with home automation systems
 
 ## Hardware
 - Controller: Wemos D1 Mini
