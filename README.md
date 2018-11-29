@@ -15,7 +15,6 @@ In a months time I will be in my paternity leave for a few months, which could b
 - Push events when values change using MQTT
 - Add LED strip and control lights based on time or events
 - Turn on/off external heat source with Wi-Fi based power plug, like Sonoff
-- Motion sensing (dim light on when parents entering room)
 
 ## Hardware
 - Controller: Wemos D1 Mini
