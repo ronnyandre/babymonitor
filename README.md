@@ -17,8 +17,9 @@ In January 2019 I will start my paternity leave which could be a good time to st
 - Push events using MQTT for integration with home automation systems
 
 ## Hardware
-- Controller: Wemos D1 Mini
-- Audio detection: GY-MAX4466
-- Vibration detection: SW-420
-- Temperature and humidity reading: DHT22
-- Motion sensor: HC-SR501
+- Controller: Wemos D1 Mini ($2.13)
+- Audio detection: GY-MAX4466 ($1.17)
+- Vibration detection: SW-420 ($0.35)
+- Temperature and humidity reading: DHT22 ($2.54)
+- Motion sensor: HC-SR501 ($0.80)
+- **Total cost: $6.99**
