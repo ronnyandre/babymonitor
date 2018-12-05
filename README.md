@@ -20,6 +20,6 @@ In January 2019 I will start my paternity leave which could be a good time to st
 - Controller: Wemos D1 Mini ($2.13)
 - Audio detection: GY-MAX4466 ($1.17)
 - Vibration detection: SW-420 ($0.35)
-- Temperature and humidity reading: DHT22 ($2.54)
+- Temperature, pressure and humidity reading: BME280 ($2.23)
 - Motion sensor: HC-SR501 ($0.80)
-- **Total cost: $6.99**
+- **Total cost: $6.68**
