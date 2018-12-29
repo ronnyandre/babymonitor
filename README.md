@@ -21,5 +21,6 @@ In January 2019 I will start my paternity leave which could be a good time to st
 - Audio detection: GY-MAX4466 ($1.17)
 - Vibration detection: SW-420 ($0.35)
 - Temperature, pressure and humidity reading: BME280 ($2.23)
-- Motion sensor: HC-SR501 ($0.80)
-- **Total cost: $6.68**
+- PIR Motion sensor: HC-SR501 ($0.80)
+- 3M LED Strip (30 LEDs per meter): WS2812B ($10.70)
+- **Total cost: $71.38**
